@@ -1,8 +1,8 @@
 package logk
 
 import (
-	"github.com/konsultin/logk/level"
-	logkOption "github.com/konsultin/logk/option"
+	"github.com/go-konsultin/logk/level"
+	logkOption "github.com/go-konsultin/logk/option"
 )
 
 type Printer interface {

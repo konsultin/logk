@@ -6,8 +6,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/konsultin/logk/level"
-	logkOption "github.com/konsultin/logk/option"
+	"github.com/go-konsultin/logk/level"
+	logkOption "github.com/go-konsultin/logk/option"
 )
 
 type Logger interface {

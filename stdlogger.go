@@ -8,9 +8,9 @@ import (
 	stdLog "log"
 	"os"
 
-	logkContext "github.com/konsultin/logk/context"
-	"github.com/konsultin/logk/level"
-	logkOption "github.com/konsultin/logk/option"
+	logkContext "github.com/go-konsultin/logk/context"
+	"github.com/go-konsultin/logk/level"
+	logkOption "github.com/go-konsultin/logk/option"
 )
 
 var stdLevelPrefix = map[level.LogLevel]string{

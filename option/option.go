@@ -3,7 +3,7 @@ package logkOption
 import (
 	"context"
 
-	"github.com/konsultin/logk/level"
+	"github.com/go-konsultin/logk/level"
 )
 
 type Options struct {
